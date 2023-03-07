@@ -26,7 +26,7 @@ const number4 = prompt ("Введите число")
   const Name = prompt ("Введите Ваше имя")
   const Age = prompt ("Введите Ваш возраст")
   if(Age >= 18) {
-      console.log("Hello" + Name)
+      console.log("Hello " + Name)
   } else {
-      console.log("Hi" + Name)
+      console.log("Hi " + Name)
   }
